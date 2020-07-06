@@ -7,7 +7,7 @@ This subreddit is dedicated to online multiplayer in the Dark Souls series and w
 >
 * Find co-op partners
 >
-* Arrange for Arena matches
+* Arrange for PvP matches
 
 ---
 
@@ -30,7 +30,7 @@ For *Co-op* requests:
 >
 For *Arena* matches:
 >
-* [**Arena**][**PS4/PC/Xbox**][Soul Level][Weapon Upgrade Level](Password)
+* [**PvP**][**PS4/PC/Xbox**][Soul Level][Weapon Upgrade Level](Password)
 
 ---
 
@@ -97,5 +97,8 @@ For *Arena* matches:
 ---
 
 >#### **Community Resources**
-* [Fextralife Summon Range Calculator](http://darksouls3.wiki.fextralife.com/Summon+Range+Calculator)
-* [Wikidot Summon Range Calculator](http://darksouls3.wikidot.com/summon-range-calculator)
+* [Discord!!](https://discord.gg/QU7dxED)
+* [Dark Souls Multi-Player Soul Level Range Calculator](https://mpql.net/tools/dark-souls/)
+* [Dark Souls II Multi-Player Soul Memory Range Calculator](https://mpql.net/tools/dark-souls-2/)
+* [Dark Souls III Multi-Player Level Range Calculator](https://mpql.net/tools/dark-souls-3/)
+* [Character Planner - Soulsplanner](https://soulsplanner.com/)
