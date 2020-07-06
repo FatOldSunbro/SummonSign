@@ -2,14 +2,14 @@
 
 # check for request type 
 type: submission
-~title (regex): ["help", "summon", "co-?op", "arena"]
+~title (regex): ["help", "summon", "co-?op", "pvp"]
 action: remove
 #modmail: |
 #    The above {{kind}} by /u/{{author}} in /r/{{subreddit}} has been removed as it does not contain a type.
 comment: |
     Hi, Your post has been automatically removed as it does not meet our formatting guidelines
 
-    > You must include the type of submission, one of either Help, Summon, Co-op or Arena
+    > You must include the type of submission, one of either Help, Summon, Co-op or PvP
 
     > e.g., [*Help*][PS4][100] Abyss Watchers
 
@@ -126,36 +126,36 @@ set_flair: ["Co-op with Me!", "coop-switch"]
 ---
 
 type: submission
-title (regex): ["(ps4(.*)arena|arena(.*)ps4)"]
+title (regex): ["(ps4(.*)pvp|pvp(.*)ps4)"]
 set_flair: ["Fight Me!", "arena-ps4"]
 
 ---
 
 type: submission
-title (regex): ["((pc|steam)(.*)arena|arena(.*)(pc|steam))"]
+title (regex): ["((pc|steam)(.*)pvp|pvp(.*)(pc|steam))"]
 set_flair: ["Fight Me!", "arena-steam"]
 
 ---
 
 type: submission
-title (regex): ["((xbox|xbox1|xbone)(.*)arena|arena(.*)(xbox|xb(ox)?1|xbone))"]
+title (regex): ["((xbox|xbox1|xbone)(.*)pvp|pvp(.*)(xbox|xb(ox)?1|xbone))"]
 set_flair: ["Fight Me!", "arena-xbox"]
 
 ---
 
 type: submission
-title (regex): ["(ps3(.*)arena|arena(.*)ps3)"]
+title (regex): ["(ps3(.*)pvp|pvp(.*)ps3)"]
 set_flair: ["Fight Me!", "arena-ps3"]
 
 ---
 
 type: submission
-title (regex): ["(switch(.*)arena|arena(.*)switch)"]
+title (regex): ["(switch(.*)pvp|pvp(.*)switch)"]
 set_flair: ["Fight Me!", "arena-switch"]
 
 ---
 
-    author: [gaynibba9090, ChungusEater420, Gigi0505, SPambot67, slavknightgayl12, S0ur68w, BonfireFodder, Reb_Eye_Stone, Shweep80, mlugo808, datboy2006, KMACS4769, oldenspace, MinMaxxingGoon, Zelyyx, really_special_spam, datboi_216, Loud-Quarter, TheRightous335, Hypixelizdead, Abyssal_Paladin, TobiasNH, Phypur, Timageness, street_ronin]
+    author: [gaynibba9090, ChungusEater420, Gigi0505, SPambot67, slavknightgayl12, S0ur68w, BonfireFodder, Reb_Eye_Stone, Shweep80, mlugo808, datboy2006, KMACS4769, oldenspace, MinMaxxingGoon, Zelyyx, really_special_spam, datboi_216, Loud-Quarter, TheRightous335, Hypixelizdead, Abyssal_Paladin, TobiasNH, Phypur, Timageness]
     action: remove
     
 ---
